@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Tutorial/Scenes/BluetoothSample.unity
+    path: Assets/AndroidLinks/Scenes/BluetoothSample.unity
     guid: 64e5c54716dc75545b9039587031c72c
   m_configObjects: {}
